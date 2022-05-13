@@ -1,5 +1,15 @@
-@import "node_modules/bootstrap/scss/bootstrap.scss";
-@import "node_modules/bootstrap-vue/src/index.scss";
+// quasar variables
+$primary: #1976D2;
+$secondary: #26A69A;
+$accent: #9C27B0;
+
+$dark: #1D1D1D;
+
+$positive: #21BA45;
+$negative: #C10015;
+$info: #31CCEC;
+$warning: #F2C037;
+// ---
 
 :root {
     --vt-c-white: #ffffff;
