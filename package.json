@@ -8,17 +8,19 @@
     "lint": "eslint renatoybarbara.com --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "bootstrap": "^5.1.3",
-    "bootstrap-vue": "^2.22.0",
+    "@quasar/extras": "^1.13.6",
+    "quasar": "^2.6.6",
     "vue": "^3.2.33"
   },
   "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.9",
     "@rushstack/eslint-patch": "^1.1.0",
     "@vitejs/plugin-vue": "^2.3.1",
     "@vue/eslint-config-prettier": "^7.0.0",
     "eslint": "^8.5.0",
     "eslint-plugin-vue": "^8.2.0",
     "prettier": "^2.5.1",
+    "sass": "^1.51.0",
     "vite": "^2.9.5"
   }
 }
